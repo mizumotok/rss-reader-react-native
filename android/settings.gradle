@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeRssReader'
+
+include ':app'
